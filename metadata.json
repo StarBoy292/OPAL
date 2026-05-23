@@ -1,0 +1,6 @@
+{
+  "name": "OPAL",
+  "description": "A social platform blending the best of Instagram, Snapchat, BeReal, and Discord into one unified experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
